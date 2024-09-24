@@ -1,5 +1,6 @@
 # OC_Sentiment_Analysis
 Repository to hold google colab notebook to do sentiment analysis as an internal project to scrape reviews from google play store for NHS app.
+Google Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources, including GPUs and TPUs.
 
 ### This notebook works using the libraries as below:
 
