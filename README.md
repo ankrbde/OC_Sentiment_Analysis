@@ -18,7 +18,7 @@ Repository to hold google colab notebook to do sentiment analysis as an internal
 
 ## How to use
 * Download the "sentiment_analysis_nhs.ipynb" file on your device.
-* Open [Google colab](https://colab.research.google.com/) in any browser and you have a introductory page.
+* Open [Google colab](https://colab.research.google.com/) in any browser.
 * Go to File -> Upload Notebook -> Sign in to your google account
 * Once you have an Open Notebook overlay opened, select the downloaded file from you device
 * Your file will be loaded on the Google colab
