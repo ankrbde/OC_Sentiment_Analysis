@@ -26,9 +26,9 @@ Repository to hold google colab notebook to do sentiment analysis as an internal
 
 ## Output
 
-On completion of above steps,  will take roughly 10 mins to download an output csv file which will have a report for sentiment analysis done for the latest 1000 reviews from the NHS App(Google play store)
+On completion of above steps(takes roughly 10 mins), an output csv file will downloaded on your device which will have a report for sentiment analysis done for the latest 1000 reviews from the NHS App(Google play store).
 
-Report will have 2 customised columns 'sentiment' and 'result score' which are the outcome of the sentiment analysis done. You can also have a look at the column 'score' which tell how much ratings user gave for the review.
+Report will have 2 customised columns 'sentiment' and 'result score' which are the outcome of the sentiment analysis. You can also have a look at the column 'score' which tell how much ratings user gave for the review.
 
 
 ## Useful links
